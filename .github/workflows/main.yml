@@ -1,3 +1,5 @@
+name: Build Thumbsup Gallery
+
 on:
 push:
 branches:
